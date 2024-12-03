@@ -1,0 +1,13 @@
+2024-12-03T12:26:55.539-05:00  INFO 56988 --- [healer] [main] com.example.healer.HealerApplication     : Starting HealerApplication using Java 17.0.12 with PID 56988 (/home/home/Documents/Projects/Healer/healer/target/classes started by home in /home/home/Documents/Projects/Healer/healer)
+2024-12-03T12:26:55.542-05:00  INFO 56988 --- [healer] [main] com.example.healer.HealerApplication     : No active profile set, falling back to 1 default profile: "default"
+2024-12-03T12:26:56.025-05:00  INFO 56988 --- [healer] [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port 8080 (http)
+2024-12-03T12:26:56.033-05:00  INFO 56988 --- [healer] [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2024-12-03T12:26:56.033-05:00  INFO 56988 --- [healer] [main] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/10.1.33]
+2024-12-03T12:26:56.063-05:00  INFO 56988 --- [healer] [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2024-12-03T12:26:56.064-05:00  INFO 56988 --- [healer] [main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 489 ms
+2024-12-03T12:26:56.248-05:00  WARN 56988 --- [healer] [main] ion$DefaultTemplateResolverConfiguration : Cannot find template location: classpath:/templates/ (please add some templates, check your Thymeleaf configuration, or set spring.thymeleaf.check-template-location=false)
+2024-12-03T12:26:56.293-05:00  INFO 56988 --- [healer] [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port 8080 (http) with context path '/'
+2024-12-03T12:26:56.299-05:00  INFO 56988 --- [healer] [main] com.example.healer.HealerApplication     : Started HealerApplication in 1.037 seconds (process running for 1.276)
+2024-12-03T12:27:00.751-05:00  INFO 56988 --- [healer] [http-nio-8080-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2024-12-03T12:27:00.751-05:00  INFO 56988 --- [healer] [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2024-12-03T12:27:00.752-05:00  INFO 56988 --- [healer] [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 1 ms
